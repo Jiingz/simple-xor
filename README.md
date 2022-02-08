@@ -6,4 +6,4 @@ Since I just started learning Rust I wrote a simple xor tool. You can encrypt a 
 
 Usage:
 
-./main your_string_to_encrypt your_key
+cargo run your_string_to_encrypt your_key
